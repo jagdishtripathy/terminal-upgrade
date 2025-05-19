@@ -1,4 +1,4 @@
-# 💻 Terminal Upgrade - Customize Your Own Linux Terminal
+# 💻Customize Your Own Linux Terminal
 ![Screenshot](screenshot.png)
 
 ---
