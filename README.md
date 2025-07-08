@@ -68,7 +68,7 @@ Now close your terminal and reopen it --- you're now using ZSH ✅
 
 These tools create the stylish look:
 ```
-sudo apt install figlet lolcat neofetch mousepad -y
+sudo apt install figlet lolcat fastfetch mousepad -y
 
 ```
 💡 Why mousepad instead of nano?
@@ -90,7 +90,7 @@ Step 2: Scroll to the Bottom and Paste This:
 clear
 figlet -f pagga "Jagadish" | lolcat
 echo -e "\e[1;36mThink Deep. Hack Smart.\e[0m"
-neofetch
+fastfetch
 # ────────────────────────────────────────────
 ```
 🧠 Customize it!
