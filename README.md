@@ -1,5 +1,5 @@
 # 💻Customize Your Own Linux Terminal
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ---
 
